@@ -2,7 +2,7 @@ Analysis of Independent Differences (AID): a TPP Analysis
 
 Instructions
 
-AID examines the differences between the fractions of non-denatured protein in order to predict the most likely shifted proteins from thermal proteome profiling experimentsThese instructions provide an overview about AID inputs and outputs. The R script is accessible at https://github.com/alex-bio/TPP and the Shiny App, which requires no prior knowledge of R or coding, is accessible at https://gygi.med.harvard.edu/software. For further details on how AID works, please see Panov, A. & Gygi, S.P. Analysis of Independent Differences (AID) detects complex thermal proteome profiles independent of shape and identifies candidate panobinostat targets (2019).
+AID examines the differences between the fractions of non-denatured protein in order to predict the most likely shifted proteins from thermal proteome profiling experiments. These instructions provide an overview about AID inputs and outputs. The R script is accessible at https://github.com/alex-bio/TPP and the Shiny App, which requires no prior knowledge of R or coding, is accessible at https://gygi.med.harvard.edu/software. For further details on how AID works, please see Panov, A. & Gygi, S.P. Analysis of Independent Differences (AID) detects complex thermal proteome profiles independent of shape and identifies candidate panobinostat targets (2019).
 
 Input
 
